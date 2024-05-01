@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @Dumbledorithm
-  🌱 I’m currently learning Full-Stack Web Development
+- 🌱 I’m currently learning Full-Stack Web Development  
 - 💞️ I’m looking for internship opportunities in the domain of web development 
 
 
